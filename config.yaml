@@ -1,0 +1,7 @@
+url: https://test.com
+apps:
+  -
+    app: Fanwiki
+    id: "82b9412e-799e-47ab-8c50-7e92841253ad"
+    platform: "ios"
+    description: "asdf"

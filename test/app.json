@@ -1,0 +1,33 @@
+{
+    "name": "Fanwiki",
+    "platform": "ios",
+    "description": "asdf",
+    "id": "82b9412e-799e-47ab-8c50-7e92841253ad",
+    "stores": [
+        {
+            "name": "official",
+            "url": "https://appstore.apple.com/id=com.abc.fanwiki"
+        },
+        {
+            "name": "appdeploy",
+            "url": "https://appdeploy.linecorp.com/id=com.abc.fanwiki"
+        }
+    ],
+    "versions": [
+        {
+            "version": "1.2.3",
+            "serial": 2,
+            "description": "this is good",
+            "timestamp": "2020-03-20T22:33:11",
+            "reviews": [
+                {
+                    "author": "apple",
+                    "summary": "this is bad",
+                    "workaround": "provide ppt",
+                    "timestamp": "2020-03-20T22:33:11"
+                }
+            ]
+        }
+    ],
+    "version_count": 10
+}
