@@ -3,7 +3,7 @@ import {MdAdd} from "react-icons/all";
 import './TodoInsert.scss'
 
 type Props = {
-    onInsert: any
+    onInsert: Function
 }
 
 const TodoInsert = ({ onInsert }: Props) => {
